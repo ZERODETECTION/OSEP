@@ -8,4 +8,7 @@ execute -o cmd /c "C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefini
 
 run sharphound
 sharp-hound-4 -- '-c all,GPOLocalGroup'
+
+sideload
+https://dominicbreuker.com/post/learning_sliver_c2_10_sideload/
 ```
