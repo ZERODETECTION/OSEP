@@ -27,4 +27,5 @@ https://rootjaxk.github.io/posts/OSEP/
 https://fabian-lim.com/my-review-on-osep-pen-300-2024-e77e579c7a3c
 https://fluidattacks.com/blog/osep-review/
 https://steflan-security.com/offensive-security-experienced-penetration-tester-osep-review/
+https://bishopfox.com/blog/passing-the-osep-exam-using-sliver
 ```
