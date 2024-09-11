@@ -19,6 +19,9 @@ https://github.com/XenocodeRCE/neo-ConfuserEx
 Downloader
 https://mgreen27.github.io/posts/2018/04/02/DownloadCradle.html
 
+Tunneling
+https://github.com/nicocha30/ligolo-ng
+
 Writeups
 https://rootjaxk.github.io/posts/OSEP/
 https://fabian-lim.com/my-review-on-osep-pen-300-2024-e77e579c7a3c
